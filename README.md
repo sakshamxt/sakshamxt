@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Tyagi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [sakshamtyagi.tech]
+- 👨‍💻 All of my projects are available at [sakshamtyagi.tech](https://www.sakshamtyagi.tech/)
 
 - 📫 How to reach me **support@sakshamtyagi.tech**
 
